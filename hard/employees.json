@@ -1,0 +1,79 @@
+{
+  "employees": [
+
+    {
+      "employeeID": 1,
+      "name": "Jim Halpert",
+      "salary": 50000,
+      "department": "Marketing"
+    },
+    {
+      "employeeID": 2,
+      "name": "Pam Beesly",
+      "salary": 100000,
+      "department": "Finance"
+    },
+    {
+      "employeeID": 3,
+      "name": "Michael Scott",
+      "salary": 400000,
+      "department": "Human Resources"
+    },
+    {
+      "employeeID": 4,
+      "name": "Dwight Schrute",
+      "salary": 52000,
+      "department": "Sales"
+    },
+    {
+      "employeeID": 5,
+      "name": "Kim Namjoon",
+      "salary": 65000,
+      "department": "IT"
+    },
+    {
+      "employeeID": 6,
+      "name": "Kim Seokjin",
+      "salary": 58000,
+      "department": "Customer Service"
+    },
+    {
+      "employeeID": 7,
+      "name": "Min Yoongi",
+      "salary": 53000,
+      "department": "Operations"
+    },
+    {
+      "employeeID": 8,
+      "name": "Jung Hoseok",
+      "salary": 62000,
+      "department": "Research and Development"
+    },
+    {
+      "employeeID": 9,
+      "name": "Park Jimin",
+      "salary": 54000,
+      "department": "Production"
+    },
+    {
+      "employeeID": 10,
+      "name": "Kim Taehyung",
+      "salary": 57000,
+      "department": "Quality Assurance"
+    },
+    {
+      "employeeID": 11,
+      "name": "Gojo Satoru ",
+      "salary": 105000,
+      "department": "Sales"
+    },
+    {
+      "employeeID": 12,
+      "name": "Suguru Geto",
+      "salary": 104000,
+      "department": "Human Resources"
+    }
+  ]
+}
+
+  
